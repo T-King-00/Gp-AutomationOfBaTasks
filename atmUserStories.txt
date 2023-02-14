@@ -4,4 +4,4 @@ As a Customer ,I want to  deposit cash in my bank account through ATM so that I 
 As a Customer ,I want to deposit check in my bank account through ATM so that I may save my time and perform transactions later.
 As a Customer I want to withdraw cash from my bank account through ATM so that I may save my time.
 As a Customer, I want to transfer money from my account to another bank account through ATM so that I may save my time.
-As a Customer,I want to transfer money from my account to another bank account through ATM So that I may save my time.
+As a Customer,I want to transfer money from my account to another bank account through ATM so that I may save my time.
