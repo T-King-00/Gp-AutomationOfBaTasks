@@ -1,42 +1,42 @@
 ﻿attribute,class
-id,["user"]
-User Name,user
-birthdate,user
-password,user
-title,book
-author,book
-isbn,book
-publication,book
-date of publication,account 
-no_borrowed_books,account 
-no_reserved_books,account 
-fine amount,account 
-employee id,employee
-Salary,employee
-employee name,employee
-customer Id,customer 
-payment id,customer 
-customer name,customer 
-order ,customer 
-order id,order 
-item name,order
-quantity,order 
-customer Id,order 
-payment id,payment 
-bill id,payment 
-id,bill
-order id,bill
-total bill,bill
-student name,student 
-student id,student 
-gender,student 
-year,student 
-class id,student 
-bus id,bus 
-bus number,bus 
-driver name,bus 
-destination,bus 
-total seats,bus 
-department name,department 
-total students,department 
-department id,department 
+id,"""['user']"""
+User Name,"""['user']"""
+birthdate,"""['user']"""
+password,"""['user']"""
+title,"""['book']"""
+author,"""['book']"""
+isbn,"""['book']"""
+publication,"""['book']"""
+date of publication,"""['account']"""
+no_borrowed_books,"""['account']"""
+no_reserved_books,"""['account']"""
+fine amount,"""['account']"""
+employee id,"""['employee']"""
+Salary,"""['employee']"""
+employee name,"""['employee']"""
+customer Id,"""['customer']"""
+payment id,"""['customer']"""
+customer name,"""['customer']"""
+order ,"""['customer']"""
+order id,"""['order']"""
+item name,"""['order']"""
+quantity,"""['order']"""
+customer Id,"""['order']"""
+payment id,"""['payment']"""
+bill id,"""['payment']"""
+id,"""['bill']"""
+order id,"""['bill']"""
+total bill,"""['bill']"""
+student name,"""['student']"""
+student id,"""['student']"""
+gender,"""['student']"""
+year,"""['student']"""
+class id,"""['student']"""
+bus id,"""['bus']"""
+bus number,"""['bus']"""
+driver name,"""['bus']"""
+destination,"""['bus']"""
+total seats,"""['bus']"""
+department name,"""['department']"""
+total students,"""['department']"""
+department id,"""['department']"""
