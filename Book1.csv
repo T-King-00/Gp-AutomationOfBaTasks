@@ -7,17 +7,17 @@ title,book
 author,book
 isbn,book
 publication,book
-date of publication,Account 
-no_borrowed_books,Account 
-no_reserved_books,Account 
-fine amount,Account 
-employee id,Employee
-Salary,Employee
-employee name,Employee
-customer Id,Customer 
-payment id,Customer 
-customer name,Customer 
-order ,Customer 
+date of publication,account 
+no_borrowed_books,account 
+no_reserved_books,account 
+fine amount,account 
+employee id,employee
+Salary,employee
+employee name,employee
+customer Id,customer 
+payment id,customer 
+customer name,customer 
+order ,customer 
 order id,order 
 item name,order
 quantity,order 
@@ -37,6 +37,6 @@ bus number,bus
 driver name,bus 
 destination,bus 
 total seats,bus 
-department name,Department 
-total students,Department 
-department id,Department 
+department name,department 
+total students,department 
+department id,department 
